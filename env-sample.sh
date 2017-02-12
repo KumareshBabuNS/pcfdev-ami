@@ -1,0 +1,10 @@
+export AWS_KEY=
+export AWS_SECRET=
+export KEY_PAIR=
+export SUBNET_ID=subnet-900457ba
+export PRIAVE_KEY_PATH=XXX.pem
+export PUBLIC_IP=
+export SERVICES="redis,rabbitmq"
+export DOMAIN="pcfdev.shaozhenpcf.com"
+export SECURITY_GROUPS=sg-7437d508 #With 443 and 22 open
+export VM_TAG="pcfdev-aws-sding"
