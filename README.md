@@ -4,6 +4,10 @@ Image built by packer from: https://github.com/pivotal-cf/pcfdev
 
 **Note**: The AMI image is private and only available for PCF Services AWS account
 
+**Note**: This AMI does not include apps manager and spring cloud service... since those are proprietary for pivotal
+
+**Note**: Check the bosh releases used by this version: [versions.json](https://github.com/datianshi/pcfdev/blob/master/versions.json)
+
 ## Why
 
 * Quickly start a single VM Cloud Foundry environment
