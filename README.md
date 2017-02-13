@@ -10,7 +10,7 @@ Image built by packer from: https://github.com/pivotal-cf/pcfdev
 
 ## Why
 
-* Quickly start a single VM Cloud Foundry environment
+* Quickly start a single VM Cloud Foundry environment available on the internet
 * Economic
 * No need to consume local laptop resources
 * Apps survive after AWS EC2 stop/start
